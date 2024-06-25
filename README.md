@@ -1,2 +1,2 @@
 # Anushka
-## This is my first code in github
+## This is my Repository in Git Hub
